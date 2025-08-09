@@ -7,5 +7,5 @@ This repository stores all of my code and potentially other important files/data
 ![Plot of data](figures/CHC_clade_conservation.png)
 - Distribution of residues in the yeast CLC at sites 113, 135, and 146 of the human CLC
 ![Plot of data](figures/CLC_clade_conservation.png)
-- Preprocessing cell imaging data and quantifying the spatial distribution of p115 via a user-friendly and easily customizable pipeline that uses Napari. This project takes images of nuclei, creates masks for each viable one, and creates two "donuts" around them to set up a full analysis regarding where the proteins fall; whether they're more present in the nuclear mask, the inner donut, or the outer donut, these contribute to an overall score that determines how clustered the proteins are within the cells. 
+- Preprocessing cell imaging data and quantifying the spatial distribution of p115 via a user-friendly and customizable pipeline that uses Napari. This project takes images of nuclei, creates masks for each viable one, and creates two "donuts" around them to set up a full analysis regarding where the proteins fall; whether they're more present in the nuclear mask, the inner donut, or the outer donut, these contribute to an overall score that determines how clustered the proteins are within the cells. 
 ![Napari visualization of cells](figures/napari-img.png)
