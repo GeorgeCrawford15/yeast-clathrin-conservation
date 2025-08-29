@@ -1,6 +1,6 @@
 # Yeast Clathrin Conservation Analysis
 
-**Note:** This repository documents the workflow and analysis of clathrin heavy chain (CHC) and light chain (CLC) conservation across 12 yeast clades. It includes sequence organization notebooks and a heatmap generation pipeline.  
+**Note:** This repository documents the workflow and analysis of clathrin heavy chain 17 (CHC17) and light chain (CLC) conservation across 12 yeast clades. It includes sequence organization notebooks and a heatmap generation pipeline.  
 
 ---
 
