@@ -37,7 +37,7 @@ This repository contains analyses of CHC and CLC protein sequences across 12 yea
 ## Inputs
 
 - For `clathrin-chains-conservation.ipynb`:  
-  - Two top-level folders, one for CHC17s and one for CLCs, each containing subfolders for each clade.  
+  - Two folders inside `332-species-by-clade`, one for CHC17s and one for CLCs, each containing subfolders for each clade.  
   - Each subfolder contains aligned sequence files of species in a particular clade.  
   - Filenames within each subfolder should be consistent with the original clade assignment (e.g., `clade1.fasta`, `clade2.fasta`, …).  
 
