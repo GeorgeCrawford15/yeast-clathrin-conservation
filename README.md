@@ -41,8 +41,6 @@ This repository contains analyses of CHC and CLC protein sequences across 12 yea
   - Each subfolder contains aligned sequence files of species in a particular clade.  
   - Filenames within each subfolder should be consistent with the original clade assignment (e.g., `clade1.fasta`, `clade2.fasta`, …).  
 
-- The CHC1/CLC1 organization notebooks primarily use raw sequence files provided during analysis.  
-
 ---
 
 ## Outputs
