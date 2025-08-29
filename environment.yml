@@ -1,0 +1,10 @@
+name: clathrin-conservation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.10
+  - jupyterlab=4.4.4
+  - numpy=2.2.6
+  - matplotlib=3.10.3
+  - biopython=1.85
+
