@@ -1,1 +1,1 @@
-# Visualizing the Conservation of Clathrin Light and Heavy Chains in Yeast
+# Conservation of Clathrin Light and Heavy Chains in Yeast
