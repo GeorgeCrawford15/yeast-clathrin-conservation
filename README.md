@@ -63,7 +63,7 @@ You may create a Conda environment using an `environment.yml` file:
 
 ```bash
 conda env create -f environment.yml
-conda activate yeast-clathrin-conservation
+conda activate clathrin-conservation
 jupyter lab
 ```
 
