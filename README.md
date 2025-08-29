@@ -22,7 +22,7 @@ This repository contains analyses of CHC and CLC protein sequences across 12 yea
 - `CHC1-data-org.ipynb` and `CLC1-data-org.ipynb` document the sequence organization workflow for the heavy and light chains, respectively.  
 - `clathrin-chains-conservation.ipynb` contains a reusable function to generate heatmaps illustrating sequence conservation.  
 
-> *Note:* The sequence organization notebooks are primarily descriptive and document your workflow. The heatmap notebook is slightly instructional for potential reuse with properly formatted sequence files.  
+> *Note:* The sequence organization notebooks are primarily descriptive and document my workflow. The `clathrin-chains-conservation` notebook is instructional for potential reuse, assuming properly formatted sequence files.  
 
 ---
 
@@ -37,8 +37,8 @@ This repository contains analyses of CHC and CLC protein sequences across 12 yea
 ## Inputs
 
 - For `clathrin-chains-conservation.ipynb`:  
-  - Top-level folder containing subfolders for each clade.  
-  - Each subfolder contains aligned sequence files for either CHC or CLC.  
+  - Two top-level folders, one for CHC17s and one for CLCs, each containing subfolders for each clade.  
+  - Each subfolder contains aligned sequence files of species in a particular clade.  
   - Filenames within each subfolder should be consistent with the original clade assignment (e.g., `clade1.fasta`, `clade2.fasta`, …).  
 
 - The CHC1/CLC1 organization notebooks primarily use raw sequence files provided during analysis.  
