@@ -55,7 +55,7 @@ All notebooks were developed using **Python 3.x** and the following packages:
 
 - pandas  
 - numpy  
-- matplotlib / seaborn  
+- matplotlib 
 - BioPython (if sequences processed)  
 - Jupyter Lab  
 
