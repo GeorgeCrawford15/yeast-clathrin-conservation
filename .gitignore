@@ -68,6 +68,11 @@ build/
 .mypy_cache/
 
 # ------------------------------
-# Optional: Jupyter hidden checkpoint files
+# Jupyter hidden checkpoint files
 # ------------------------------
 .*.ipynb_checkpoints/
+
+# ------------------------------
+# Ignore Ben's notebook
+# ------------------------------
+CLC1_phylogeny.ipynb
