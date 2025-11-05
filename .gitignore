@@ -32,6 +32,10 @@ env.bak/
 # Project-specific data (untracked)
 # ------------------------------
 data/
+y1000plus_tools_data/
+fig2_tree_data/
+genomes_and_annotations/
+genome_analyses/
 
 # ------------------------------
 # IDE/editor settings
@@ -73,6 +77,6 @@ build/
 .*.ipynb_checkpoints/
 
 # ------------------------------
-# Ignore Ben's notebook
+# Ignore Ben's code
 # ------------------------------
-CLC1_phylogeny.ipynb
+**/bens_code/
