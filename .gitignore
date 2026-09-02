@@ -36,6 +36,9 @@ y1000plus_tools_data/
 fig2_tree_data/
 genomes_and_annotations/
 genome_analyses/
+332-species-by-clade/
+1k-species-by-clade/
+aa_conservation.ipynb
 
 # ------------------------------
 # IDE/editor settings
